@@ -1,2 +1,5 @@
-# The_Ascension
-This game is CAPSTONE Project Developing in University
+# Souls
+
+This game is published on Steam
+
+Shared for code review purposes only.
