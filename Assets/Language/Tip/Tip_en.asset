@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tip_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 107a35522a72a2248b247d1c9e1d30b0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6630305792
+    m_Localized: '"<color=#3333ff>* Press [Ctrl] to hold your breath</color>"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2198405804032
+    m_Localized: <color=#207dd8>You can light it with the lamp on  library desk.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3071030751232
+    m_Localized: <color=#207dd8>Another way is to find candlesticks in advance.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197871039492096
+    m_Localized: Ascended Soul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 526503233351680
+    m_Localized: You can see evil spirits by using the camera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 526788227919872
+    m_Localized: The devil responds to the sound of human breath.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708965548847104
+    m_Localized: You can know the color of the soul, and the closer the soul is,
+      the brighter it shines.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708968262561792
+    m_Localized: It only tells the direction of the soul that exists within a certain
+      range from its current position.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708969759928320
+    m_Localized: "Holy fire becomes possible by soothing the soul's mind that exists
+      nearby. \n[It can arouse anger at someone]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36479547280093184
+    m_Localized: 'You must turn off the camera to grab the item. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007605576265728
+    m_Localized: Is it just one person now...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007775906951168
+    m_Localized: You're doing great... Let's do it a little bit more..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007914008604672
+    m_Localized: "\u3042\u3068\u3069\u308C\u304F\u3089\u3044\u6B8B\u3063\u3066\u308B\u3093\u3060\u308D\u3046\xB7\xB7\xB7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008431518609408
+    m_Localized: Mansion owner... you son of a motherf***
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008574112362496
+    m_Localized: The people who managed this house... I'm sorry...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008742543028224
+    m_Localized: Sigh... It's finally the last..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202708655628288
+    m_Localized: You need to pack your flashlight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202714607345664
+    m_Localized: You need to pack your camera.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202785260396544
+    m_Localized: You need to pack the box where you put the items in.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14376219528294400
+    m_Localized: ......maybe it's your last chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14376305800933376
+    m_Localized: Sigh... I don't feel well in my body..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18062981287014400
+    m_Localized: Haha...so thrilling...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20113748240003072
+    m_Localized: <color=#ff0000>You've already done half of it. Do better now</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20159958409703424
+    m_Localized: Please hold a soul ceremony in the library.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20273248662089728
+    m_Localized: You have to take out the box where you put the items.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23806967691767808
+    m_Localized: Ouch....I understand the fire that cooks the whole thing...,,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23806960733417472
+    m_Localized: Ugh... ah... it hurts...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25171573186129920
+    m_Localized: You must turn off the camera to grab the item. [V]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25256940698497024
+    m_Localized: '<color=#3333ff>You don''t know how to escape.
+
+      I think I
+      need to investigate somewhere to escape from here.</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25266112051703808
+    m_Localized: '<color=#3333ff>Souls are running away.
+
+      I guess I need to
+      find a tool to find souls</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25268074344247296
+    m_Localized: '<color=#3333ff>You cannot leave this mansion as long as the spirits
+      exist.
+
+      Please find the souls and liberate them.</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25269489770852352
+    m_Localized: <color=#3333ff>Let's go home.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25542961638043648
+    m_Localized: <color=#5555ff>....not bad.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36474758114734080
+    m_Localized: '"<color=#3333ff>* Press [right eye button] to hold your breath</color>"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36769072774541312
+    m_Localized: ' Press To Use'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36775119098638336
+    m_Localized: bottom left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36776003597660160
+    m_Localized: ' Button Press To Use '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36775148676870144
+    m_Localized: right camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36775144004415488
+    m_Localized: upper left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37201872656953344
+    m_Localized: Please connect the network.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41158773576986624
+    m_Localized: Is this a study...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41161632141963264
+    m_Localized: <color=#ff3333>x $#*@!&%&! x</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41219092777168896
+    m_Localized: 'This is truly a heaven-sent opportunity...
+
+      Let''s do it
+      this time...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41236657834455040
+    m_Localized: Let's put this in the box next to the desk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41238308649594880
+    m_Localized: Grab your things and go inside.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51135043328962560
+    m_Localized: Tap is How to use the Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54567181873213440
+    m_Localized: <color=#5555ff>Thump thud</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54567268569477120
+    m_Localized: <color=#5555ff>Chipi Chipi Chapa...</color>
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

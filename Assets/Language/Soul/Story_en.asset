@@ -1,0 +1,496 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Story_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1adcacf63cbde0c4e9f24311369d8950, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10519112216576
+    m_Localized: "<color=#F1FF00>Record of \"\uC720\uC601\"</color>\n\n\nI was a
+      faithful servant who guarded the mansion.\nHowever, when I felt the maid I
+      had been watching had gone out of sight one day, I began to look into her whereabouts.\nI've
+      been asking all the employees working in the mansion for a week, but I couldn't
+      figure it out\nFor whatever reason, by the owner, the sun was not visible after
+      that day.\n\n\nThat allowed me to know.\n\n\nThat the owner had got rid of
+      her...After that, I fall into helplessness and wait to die.\nOnly the <color=#F1FF00>
+      key</color> in the owner's room will get me out of here, but I don't want to
+      do anything."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279346593792
+    m_Localized: "<color=#B900CF>Record of \"\uC8FC\uC131\"</color>\n\n\nWorking
+      only inside the house, I like to go see a driver who works outside.\nHowever,
+      I don't see the driver today.....\nI'm sure the driver smiled brightly at me
+      until yesterday, but I'm really sorry that I can't see that smile today...\n\n\nYou'll
+      be at the dinner the owner invited tonight, right?\n\n\nVery! I'm looking forward
+      to it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11593424465920
+    m_Localized: "<color=#21DB00>Record of \"\uD0DC\uC131\"</color>\n\n\nToday, I
+      go outside to trim the garden and clean up the garbage that fell into the sea.\nBoring,
+      boring.\nI'm just living in this mansion where the same routine repeats every
+      day.\n\n\nIn fact, I found out a secret from my owner while I was bored doing
+      the same thing every day.\n\n\nI didn't know why the <color=#3333ff> photos
+      of the owner's parents hung a lot in the basement </color>, but they were actually
+      a way to open the safe.\n\n\nI'll go to the master's dinner tomorrow evening
+      and then open the safe.\n\n\nI think tomorrow will be something new."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11777239838720
+    m_Localized: "<color=#FF0000>Record of '\uC9D1\uAC8C\uBC1C\"</color>\r\n\r\n(Sighs)\u2026I
+      think I'm the only one who has a lot of work. Is it just me?\r\n\r\nWhy do
+      I have more work to do when I give you a small salary\u2026..\r\nNo, why do
+      I have to take care of everything inside and outside the house\u2026\r\nIf
+      I do something wrong, I'll have my head cut off...\u2026\r\nCan I survive?\r\n\r\nStill,
+      it's nice to live in a pleasant place thanks to that!\r\n\r\nBut...The owner
+      was preparing something...I don't know what it is..\r\nYou're not weird again,
+      are you?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613091332096
+    m_Localized: "\r<color=#ff0000>Last record of landlord</color>\r\n\r\nI don't
+      know how much time I spent on this day\r\n\r\nI'm going to bring everyone to
+      the table tonight and let them sleep in joy\r\n\r\nI'll be able to get the
+      eternal life I've dreamed of for a long time.\r\nI'll be able to keep everything
+      I've achieved and made...\r\n\r\nNow, as a final ritual, All you have to do
+      is put a candle made of  blood in the <color=#ff3333>skull</color> of the house
+      and light it.\r\nYou have to finish it before all the other candles burn.\r\n\r\nFinally....
+      I made it. Come with me.. <color=#3333ff>guarding the mansion</color>servants...haha\n\n<color=#ff4444>[Ritual
+      begins]</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33818277998592
+    m_Localized: <color=#F56666>Now...it's dangerous...</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34463991099392
+    m_Localized: <color=#F51D11>Ugh......</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34775405588480
+    m_Localized: <color=#F51D11>Oh, that's my way. Then do it well.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53650467144757248
+    m_Localized: Phew...don't worry, let's do it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35788069957632
+    m_Localized: Haha...how is this going now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36144296390656
+    m_Localized: I feel dizzy...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37011523268608
+    m_Localized: I want to finish it now...let's do it quickly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51870918930432
+    m_Localized: 'All the unjust <color=#5500ff>soul rest</color> will release this
+      terrible shackle.
+
+
+
+      <color=#E700FF>
+
+      To the souls, the sound of
+      man is heard in a terrible way,
+
+      I don''t see people.
+
+
+
+      But only
+      warm songs will comfort their hearts.
+
+      </color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 747875842813952
+    m_Localized: "<color=#888800>xxxx - xx - xx\nSupplies</color>\n\n\n  1. Taking
+      care of things\n\t-Camera\n\t- Flashlight\n\n  2. things to put in a box\n\t-
+      Watch Ghost Exploration\n\t- Ghost Explorer\n\t-Hammer\n\n  3. With a positive
+      mind, let's go!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748582981496832
+    m_Localized: "<color=#4444ff>xxxx-year x-month x-day\r</color>\r\n\r\nTomorrow,
+      I plan to visit the mansion that was reported to have been found in the mountains.\r\n\r\nI
+      don't know what kind of mountain there is a mansion in, but...well, I have
+      to do whatever it takes to make money.\r\n\u315C.. \u315C\r\n\r\nSince we're
+      leaving tomorrow evening, let's eat well today.\r\n\r\nLastly, let's engrave
+      in our hearts what our grandfather said about not dealing with the devil.\r\n\r\nThen
+      let's cheer up."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974159822876672
+    m_Localized: 'Haaa...where am I...?
+
+      All my things were taken away.. Are
+      these the only things left next to me..?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009326679552000
+    m_Localized: "\r<color=#ff0000>[Someone\u2019s handwriting]</color>\r\n\r\nOnce
+      you come here...you can't leave....\r\nIf you have already stepped in, it must
+      be difficult for you too...\r\nI heard there are a lot of souls here\r\n\r\nAs
+      far as I know, the curse of this place will only end when <color=#4444ff>souls
+      are liberated</color> and <color=#2222ff>ascension</color>.\r\n\r\nIf you don't
+      have <color=#44ff44>tools</color>...well...you have no choice but to die...?\r\n\r\nTo
+      meet spirits, you have to perform a ritual in the study. ><\r\n\r\nThe souls
+      trapped in the mansion left a <color=#22ff22> final message</color> saying
+      they will help you.\r\nBe sure to read it\r\n\r\nah! Use camera batteries with
+      care. ><\r\nWhen the red battery fills up, you have to restart the game><\r\n\r\nNo...well,
+      it's just that..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1012169914347520
+    m_Localized: '<color=#00ff00>In front of the coffin</color> Is this it?
+
+      Is
+      this the only one?
+
+      ....It will happen again, right?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013970365476864
+    m_Localized: 'Ah... crazy...
+
+      What do you mean you have to free your soul?
+
+      Haha...
+      Let''s look for something in the <color=#44ff44>study</color>...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1092440185532416
+    m_Localized: 'What do you mean...this sounds like <color=#ff0000>dangerous</color>...?
+      Right?
+
+      If this is true, it means that rituals were performed using <color=#ff0000>6
+      human skulls</color>, right?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096893563301888
+    m_Localized: 'Oh no... It''s locked!
+
+      I need to look around the house.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107008257421312
+    m_Localized: <color=#FF0000>Plate</color>..?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107355961028608
+    m_Localized: 'Dying in <color=#F1FF00>Prison</color>...
+
+      Is there a prison
+      at home...?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107846883340288
+    m_Localized: 'She looks like the heroine of a romance comic
+
+      She can''t
+      love and she''s dead, right?
+
+      Same as me...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108128379858944
+    m_Localized: What does the photo have to do with <color=#21DB00> safe</color>?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108636209410048
+    m_Localized: 'It''s just like the people of the present age...lol
+
+      It''s
+      not a laughing matter, is it?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18848488409427968
+    m_Localized: "<color=#FF92C5>record of Yuri</color>\r\n\nI took out items necessary
+      for electrical work from the <color=#FF0000>warehouse outside</color>  and
+      fainted due to an electric shock while doing electrical repair work, but when
+      I opened my eyes, it was tied, \r\nThat's how I died.\r\n\r\nBut wouldn't it
+      have been possible to live if the electricity had been fixed without an accident?\r\nBut,
+      it's frustrating. Break everything.\r\n\r\nThe location is one in the basement,
+      one house, and one in the mansion, please!\r\n\r\nThank you. ><"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18848513470394368
+    m_Localized: "Well .. \r\n<color=#FF92C5>There must be an item</color> that can
+      be broken in the warehouse..?\r\nBut she's a really weird person"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20173986871799808
+    m_Localized: "After the ceremony I perform, two demons \r\nKeep an eye on me,
+      \r\nIt locks up the souls.\r\n\r\nI can be their enemy, so I put it in order.\r\n\r\n<color=#ff0000>White
+      demons</color>\n react to human sounds and react sensitively to small breaths.\r\n<color=#ff0000>Black
+      demons</color>\n help white demons.\r\nIt makes a sound and tells you where
+      it is.\r\n\r\nBlack demons only appear when white demons are struggling. \r\nI
+      think it's because he's so afraid of light."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20173995793084416
+    m_Localized: What the fuxk?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20229130200182784
+    m_Localized: "\u201CNow\u2026 I can\u2019t do this anymore\u2026\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20337894664335360
+    m_Localized: 'Haha...I found mine...
+
+      This is so expensive that I haven''t
+      even finished paying the installments.
+
+      Now...let''s get out of here.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21286597763952640
+    m_Localized: 'It''s all over...
+
+      let''s go home now'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21439715470372864
+    m_Localized: "<color=#ff2200>Nice to meet you\u2026Ostrous man.</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21764892557209600
+    m_Localized: 'I don''t remember drinking beer yesterday...
+
+      Let''s get
+      ready to go first.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23803308710981632
+    m_Localized: <color=#3333ff>All items except fixed items can be grabbed or placed
+      with [Click]</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25301031238922240
+    m_Localized: 'Sigh...what is this again....I feel nauseous....
+
+      Is this
+      a soul?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39008209002983424
+    m_Localized: <color=#3333ff>All objects except fixed objects can be held or placed
+      with the [right hand icon]</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39163884173684736
+    m_Localized: "Hyeonseong, whose hobby is exploring horror\n\nAccording to information
+      obtained from an anonymous informant today,\n\nI am planning to visit a mansion
+      in the mountains.\n\nI woke up in bed late in the evening like that.\n\nI gather
+      the equipment to detect souls and head out the front door.\n\n\u201CI\u2019ll
+      be able to do well today too, right?\u201D It was the beginning of me asking
+      myself this question."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53649749130244096
+    m_Localized: Ugh...... I'm dizzy...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53650740613378048
+    m_Localized: Ugh...what is this smell...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53650892438794240
+    m_Localized: 'It''s okay...I can do it...
+
+      Let''s light it...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53749990303100928
+    m_Localized: "<color=#002EFF>Records of the Haru</color>\r\n\r\nAs usual, I was
+      organizing <color=#002EFF>dishes</color> and moving things around.\r\nDue to
+      overwork due to the master's work instructions the previous day, I blacked
+      out for a moment and broke the <color=#FF0000>plate</color> I was holding in
+      my hand, breaking the silence of the mansion.\r\nMy master ran straight to
+      me, and I begged for forgiveness in fear.\r\nHowever, for some reason, the
+      master did not get angry like usual, and he called me to the garden behind
+      while everyone was asleep.\r\n\r\n\r\n\u2026 .. So I drowned because of <color=#002EFF>dish</color>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54089376446181376
+    m_Localized: "\u201CMom\u2026Dad\u2026I can meet you now\u2026\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088663418695680
+    m_Localized: "\u201CAh...finally.....\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088658020626432
+    m_Localized: "\u201COur savior...beware of demons...\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088653113290752
+    m_Localized: "\u201CYou got out safely too\u2026 thank you.\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088610121674752
+    m_Localized: "\u201CThanks to you, I can sleep now...\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54288920270237696
+    m_Localized: '''What...there''s nothing written...?'''
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54287935267303424
+    m_Localized: 'Control
+
+
+      [WASD] - movement
+
+      [E] - Use item
+
+      [L
+      MouseClick] - Lifting objects | Placing objects | Take a photo.
+
+      [R MouseClick]
+      - Throwing objects
+
+      [V] - Raise the camera
+
+      [F] - Turn on flashlight
+
+      [Shift]
+      - Run
+
+      [Ctrl] - Hold your breath and sit down (simultaneously)
+
+      [Tap]
+      - How to use the item | View previous goals
+
+      [SpaceBar] - Jump
+
+
+      [There
+      are restrictions on the use of cameras.]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54585015948963840
+    m_Localized: 'It''s a key, right? It''s very old...
+
+      Is there anywhere
+      to use it?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54587759065722880
+    m_Localized: Only this plate has a different shape...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54588172414382080
+    m_Localized: I think I can light a fire with this
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54588503873449984
+    m_Localized: 'These hammers...they were made ignorantly.
+
+      I''ll break anything'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54589105009487872
+    m_Localized: Bread...I want to eat it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54589340997808128
+    m_Localized: "Yeah yeah! Let\u2019s do well today too"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54589545566597120
+    m_Localized: Mirror, mirror... am I handsome?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54674425717616640
+    m_Localized: '[retrospect]
+
+
+
+      I barely finished the ritual... and demons
+      guarded this mansion...
+
+
+
+      In the end, it''s all about keeping everything
+      from escaping...
+
+
+
+      As long as my soul is here, I too will have to live
+      like this...
+
+
+
+      I don''t have to worry about continuous offerings as
+      long as they attract people...
+
+
+
+      Life in a cage is not good...
+
+
+
+      I''m
+      an idiot for believing in devils...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54676593371672576
+    m_Localized: 'This bastard...what are you talking about...
+
+      In the end,
+      I have to leave when the souls disappear, right?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56115624190046208
+    m_Localized: 'manual
+
+      
+
+      [Touch left screen] - Move.
+
+      [Tool
+      icon] - Use item
+
+      [Hand icon] - Lifting an object | Placing objects
+      | Photo shoot
+
+      [Camera icon] - Raise the camera
+
+      [Left shoe icon]
+      - Running
+
+      [Left eye icon] - Hold your breath and get on (at the same
+      time)
+
+      [Question mark icon] - View previous goals
+
+      
+
+      [Camera
+      restrictions apply]'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

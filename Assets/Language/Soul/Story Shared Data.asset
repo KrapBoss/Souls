@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Story Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Story
+  m_TableCollectionNameGuidString: 1adcacf63cbde0c4e9f24311369d8950
+  m_Entries:
+  - m_Id: 10519112216576
+    m_Key: LittleChick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11279346593792
+    m_Key: Mirim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11593424465920
+    m_Key: GomP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11777239838720
+    m_Key: Krab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18613091332096
+    m_Key: Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33818277998592
+    m_Key: LibraryLine1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34463991099392
+    m_Key: LibraryLine2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34775405588480
+    m_Key: LibraryLine3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35788069957632
+    m_Key: LibraryDead1-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36144296390656
+    m_Key: LibraryDead2-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37011523268608
+    m_Key: LibraryDead3-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51870918930432
+    m_Key: Seal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 747875842813952
+    m_Key: AlreadyPaper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748582981496832
+    m_Key: Tutorial1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974159822876672
+    m_Key: Paint1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1009326679552000
+    m_Key: StartPaper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1012169914347520
+    m_Key: Seal_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013970365476864
+    m_Key: StartPaper_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1092440185532416
+    m_Key: Library_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096893563301888
+    m_Key: OutsideDoor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107008257421312
+    m_Key: EnHama_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107355961028608
+    m_Key: LittleChick_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1107846883340288
+    m_Key: Mirim_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108128379858944
+    m_Key: GomP_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108636209410048
+    m_Key: Krab_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18848488409427968
+    m_Key: Yuri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18848513470394368
+    m_Key: Yuri_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20173986871799808
+    m_Key: GhostInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20173995793084416
+    m_Key: GhostInfo_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20229130200182784
+    m_Key: LibraryFinally
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20337894664335360
+    m_Key: SafeBoxClear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21286597763952640
+    m_Key: End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21439715470372864
+    m_Key: Outtro1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21764892557209600
+    m_Key: Tutorial1_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23803308710981632
+    m_Key: AlreadyPaper_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25301031238922240
+    m_Key: LibraryClear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39008209002983424
+    m_Key: AlreadyPaper_Next_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39163884173684736
+    m_Key: Synopsis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53649749130244096
+    m_Key: LibraryPaint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53650467144757248
+    m_Key: LibraryStart0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53650740613378048
+    m_Key: LibraryStart1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53650892438794240
+    m_Key: LibraryStart2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53749990303100928
+    m_Key: EnHama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088610121674752
+    m_Key: Soul_Line1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088653113290752
+    m_Key: Soul_Line2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088658020626432
+    m_Key: Soul_Line3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54088663418695680
+    m_Key: Soul_Line4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54089376446181376
+    m_Key: Soul_Line5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54287935267303424
+    m_Key: ControlPaper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54288920270237696
+    m_Key: ControlPaper_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54585015948963840
+    m_Key: Key_Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54587759065722880
+    m_Key: Dish_Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54588172414382080
+    m_Key: Totem_Lamp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54588503873449984
+    m_Key: Hammer_Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54589105009487872
+    m_Key: Toaster_Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54589340997808128
+    m_Key: Meter_Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54589545566597120
+    m_Key: Ball_Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54674425717616640
+    m_Key: Retrospect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54676593371672576
+    m_Key: Retrospect_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56115624190046208
+    m_Key: ControlPaper_Mobile
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8597786287936110618
+  references:
+    version: 2
+    RefIds:
+    - rid: 8597786287936110618
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701624397534

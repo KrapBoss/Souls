@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tip Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tip
+  m_TableCollectionNameGuidString: 107a35522a72a2248b247d1c9e1d30b0
+  m_Entries:
+  - m_Id: 36775119098638336
+    m_Key: 1_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36775144004415488
+    m_Key: 2_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20113748240003072
+    m_Key: ActiveBlack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41161632141963264
+    m_Key: ActiveBlack2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197871039492096
+    m_Key: Ascended
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007605576265728
+    m_Key: Ascended1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007775906951168
+    m_Key: Ascended2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007914008604672
+    m_Key: Ascended3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008431518609408
+    m_Key: Ascended4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008574112362496
+    m_Key: Ascended5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008742543028224
+    m_Key: Ascended6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202714607345664
+    m_Key: Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3071030751232
+    m_Key: Candle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202785260396544
+    m_Key: Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708965548847104
+    m_Key: Chrystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37201872656953344
+    m_Key: Connecting_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41238308649594880
+    m_Key: EnterTheMansion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36769072774541312
+    m_Key: FuncKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36776003597660160
+    m_Key: FuncKey_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2198405804032
+    m_Key: Lamp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25266112051703808
+    m_Key: LibraryClear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20159958409703424
+    m_Key: LibraryNotActivation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41158773576986624
+    m_Key: LibraryTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 526503233351680
+    m_Key: Loading1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 526788227919872
+    m_Key: Loading2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708968262561792
+    m_Key: Meter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708969759928320
+    m_Key: MusicBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41219092777168896
+    m_Key: RemainLife0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14376219528294400
+    m_Key: RemainLife1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14376305800933376
+    m_Key: RemainLife2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25268074344247296
+    m_Key: SafeboxClear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6630305792
+    m_Key: Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36474758114734080
+    m_Key: Shift_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25269489770852352
+    m_Key: SoulsClear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25542961638043648
+    m_Key: SoundPlayer0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25256940698497024
+    m_Key: StartNotice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202708655628288
+    m_Key: Torch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20273248662089728
+    m_Key: Tutorial_GoalDoor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41236657834455040
+    m_Key: TutorialBox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36775148676870144
+    m_Key: V_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18062981287014400
+    m_Key: WireBox0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23806960733417472
+    m_Key: WireBox1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23806967691767808
+    m_Key: WireBox2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25171573186129920
+    m_Key: WithoutCamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36479547280093184
+    m_Key: WithoutCamera_Mobile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51135043328962560
+    m_Key: TapIsTip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54567181873213440
+    m_Key: SoundPlayer1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54567268569477120
+    m_Key: SoundPlayer2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8597786287936110638
+  references:
+    version: 2
+    RefIds:
+    - rid: 8597786287936110638
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701632660381
